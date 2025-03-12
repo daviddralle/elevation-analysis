@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elevation-analysis/static/css/main.4921d871.css",
+    "main.js": "/elevation-analysis/static/js/main.1d78b382.js",
+    "static/js/453.2648922e.chunk.js": "/elevation-analysis/static/js/453.2648922e.chunk.js",
+    "index.html": "/elevation-analysis/index.html",
+    "main.4921d871.css.map": "/elevation-analysis/static/css/main.4921d871.css.map",
+    "main.1d78b382.js.map": "/elevation-analysis/static/js/main.1d78b382.js.map",
+    "453.2648922e.chunk.js.map": "/elevation-analysis/static/js/453.2648922e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4921d871.css",
+    "static/js/main.1d78b382.js"
+  ]
+}
